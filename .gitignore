@@ -11,4 +11,4 @@ env/
 ENV/ 
 env.bak/ 
 venv.bak/
-django_pr1/django_pr1/settings.py 
+*/settings.py
